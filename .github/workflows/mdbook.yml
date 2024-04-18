@@ -32,11 +32,17 @@ jobs:
       MDBOOK_VERSION: 0.4.36
     steps:
       - uses: actions/checkout@v4
-      - name: Install mdBook
+#      - name: Install mdBook
+#        run: |
+#          curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf -y | sh
+#          rustup update
+#          cargo install --version ${MDBOOK_VERSION} mdbook
+#     mkdir ~/tools
+      - name: install mdBook
         run: |
-          curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf -y | sh
-          rustup update
-          cargo install --version ${MDBOOK_VERSION} mdbook
+          mkdir ~/tools
+          curl -L https://github.com/rust-lang/mdBook/releases/download/v$MDBOOK_VERSION/mdbook-v$MDBOOK_VERSION-x86_64-unknown-linux-gnu.tar.gz | tar xz -C ~/tools
+          echo ~/tools >> $GITHUB_PATH
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
