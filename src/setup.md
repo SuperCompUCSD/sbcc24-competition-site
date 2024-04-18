@@ -6,6 +6,6 @@ For networking pick a port off the judge switch. An IP will be leased to you fro
 ## Power
 The power your cluster is pulling from will be on the pdu port closest to your cluster ports 1 or 6.
 
-The IP to check PDU power usage is at <https://132.249.66.54>.
+PDU info is behind our nat and the IP to check PDU power usage is at <https://10.100.0.238>.
 
 <!smtp  [132.249.66.55]>
