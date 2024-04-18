@@ -23,3 +23,21 @@ Results and announcements will be done in Pacific Standard time.
 |5:00 pm || **Results Announced** |||
 
 *Breakfast and Lunch is served at 8am and 1pm respectively daily*
+
+# Remote Teams
+Some Schedule Time Translations
+
+**Note:** For final Results Annouceemnts are done with respect to Pacific Standard Time.
+
+| Event | Local Time | PST time | Time Zone |
+| ---- | --- | --- | --- |
+| **Aalborg Universitet** ||||
+| Benchmarking | Friday 8am - 12pm | Friday 11pm - Saturday 3am | CEST |
+| Mystery App Announcement | Friday 12pm | Friday 3am | CEST |
+| Final Application Submission | Saturday 3pm | Friday 6am | CEST |
+| Results Announcements | Sunday 2am | Saturday 5pm | CEST |
+| **University of Kansas**  ||||
+| Benchmarking | Friday 8am - 12pm | Friday 6am - 10am | CST |
+| Mystery App Announcement | Friday 12pm | Friday 10am | CST |
+| Final Application Submission | Saturday 3pm | Saturday 1pm | CST |
+| Results Announcements | Saturday 7pm | Saturday 5pm | CST |
