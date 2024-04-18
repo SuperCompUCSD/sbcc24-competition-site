@@ -1,10 +1,10 @@
+# In person Teams
 The complete duration of Thursday is for setting up your clusters.
 
 You can speak to any outside sources and *real people* about the cluster and help up until *8am Friday*. 
 
 You are *always open* to speak to other teams.
 
-# In person Teams
 Setup instructions for onsite teams.
 
 ## Networking
