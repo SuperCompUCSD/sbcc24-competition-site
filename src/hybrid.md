@@ -1,5 +1,14 @@
+
 # Remote Teams
-Setup Instructions for remote teams
+*Setup Instructions for remote teams:*
+
+## General instructions 
+
+Please put a video on display of your overall setup and a view of your power monitor. You will be trusted that you will not be accessing your cluster remotely, but leave the cameras on if you can.
+
+For the Aalborg team: Please follow these times as close as possible in your respective time zone. You will be receiving the information on the mystery apps as well.
+
+For KU: Expectation is that you will be on call and aligning your hours to the ones here on the West Coast, PDT. If this is an issue, let us know.
 
 ## Application Anouncements
 For announcement of application specifications according to the [calender](./sched.md) based on your local time zone. Please coordinate with Competition organizers.

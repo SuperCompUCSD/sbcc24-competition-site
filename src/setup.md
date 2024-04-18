@@ -1,5 +1,12 @@
+The complete duration of Thursday is for setting up your clusters.
+
+You can speak to any outside sources and *real people* about the cluster and help up until *8am Friday*. 
+
+You are *always open* to speak to other teams.
+
 # In person Teams
 Setup instructions for onsite teams.
+
 ## Networking
 For networking pick a port off the judge switch. An IP will be leased to you from SDSC. for NTP use the servers `ntp1.ucsc.edu` and `ntp01.nysernet.org` syncted to UTC time.
 
