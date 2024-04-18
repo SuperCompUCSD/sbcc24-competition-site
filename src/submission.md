@@ -14,11 +14,22 @@ Every team should have one they can access and *only* their teams.
 
 **University of Texas, Austin:** UT Austin
 
-**Aalborg Universitet:** Aalborg
+**Aalborg Universitet:** ASK
 
 **University of California, San Diego:** UCSD
 
 **More application specific info will be released during competition Day 1.**
+
+*file structure*
+
+```
+EXAMPLE-SCHOOL/
+├── Benchmarks/
+├── Cube20/
+└── Mystery/
+```
+
+4 directories, 0 files
 
 ## Additional Info
 For remote teams, We'd like for you also to submit files corresponding to the power consumption of your cluster for us to validate.
