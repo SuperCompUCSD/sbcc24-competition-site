@@ -2,7 +2,6 @@
 ## Brus
 - [Home](./main.md)
 - [Schedule](./sched.md)
-- [Benchmarks](benchmark.md)
 - [Initial Cluster Setup](./setup.md)
 - [Remote Teams](./hybrid.md)
 - [General Submission Instructions](./submission.md)
