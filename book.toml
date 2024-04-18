@@ -1,0 +1,6 @@
+[book]
+authors = ["Khai Vu"]
+language = "en"
+multilingual = false
+src = "src"
+title = "sbcc24-competition-site"
