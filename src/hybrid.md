@@ -9,3 +9,5 @@ Networking is however you see fit simply sync with your local NTP server and mak
 ## Power
 For power since you are remote we expect you to have a log of your power and during submissions include a full log of your cluster's power consumption throughout the competition -- syncted to the same NTP server as your cluster
 
+## Access
+We're running on a honor code for remote teams to comply of not having access to their clusters after 5:00pm their time in fairness for the onsite teams.
