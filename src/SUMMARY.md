@@ -8,5 +8,5 @@
 <!- [Benchmarks Rules and Validation](benchmark.md)>
 <!- [Cube20 Rules and Validation](./rubiks.md)>
 <!- [Mystery Application Rules and Validation](./mystery.md)>
-<!- [Grading](./grading.md)>
+- [Grading](./grading.md)
 <!- [Results](./results.md)>
