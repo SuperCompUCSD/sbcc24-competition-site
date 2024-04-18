@@ -8,4 +8,4 @@ The power your cluster is pulling from will be on the pdu port closest to your c
 
 The IP to check PDU power usage is at <https://132.249.66.54>.
 
-smtp  [132.249.66.55]
+<!smtp  [132.249.66.55]>
