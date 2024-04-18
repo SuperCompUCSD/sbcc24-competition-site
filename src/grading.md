@@ -8,6 +8,6 @@ HPCG is 160 GFLOP/s the scores for every other team will be 10\*(their score)/
 |-------------|--------|-------|
 |HPL          | 16.67% |  10   |
 |HPCG         | 16.67% |  10   |
-|God's Number | 33.33% |  20   |
+|Cube20       | 33.33% |  20   |
 |Mystery App  | 33.33% |  20   |
-|             |        |  60   |
+|Total        |        |  60   |
