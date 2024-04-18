@@ -7,6 +7,6 @@
 - [Remote Teams](./hybrid.md)
 - [General Submission Instructions](./submission.md)
 <!- [Benchmarking Rules and Validation](./benchmark.md)>
-<!- [Rubiks Cube Rules and Validation](./rubiks.md)>
+<!- [Rubik's Cube Rules and Validation](./rubiks.md)>
 <!- [Mystery App Rules and Validation](./mystery.md)>
 <!- [Grading](./grading.md)>
