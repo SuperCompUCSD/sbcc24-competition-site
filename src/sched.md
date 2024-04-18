@@ -27,7 +27,7 @@ Results and announcements will be done in Pacific Standard time.
 # Remote Teams
 Some Schedule Time Translations
 
-**Note:** For final Results Annouceemnts are done with respect to Pacific Standard Time.
+**Note:** For final Results Announcements are done with respect to Pacific Standard Time.
 
 | Event |Time Zone | Local Time | PST time | 
 | ---- | --- | --- | --- |
