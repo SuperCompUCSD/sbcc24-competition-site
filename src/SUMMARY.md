@@ -4,9 +4,9 @@
 - [Schedule](./sched.md)
 - [Benchmarks](benchmark.md)
 - [Initial Cluster Setup](./setup.md)
-- [Remote teams](./hybrid.md)
+- [Remote Teams](./hybrid.md)
 - [General Submission Instructions](./submission.md)
-<!- [Benchmarking rules and Validation](./benchmark.md)>
-<!- [Rubiks Cube rules and Validation](./rubiks.md)>
-<!- [Mystery App rules and Validation](./mystery.md)>
+<!- [Benchmarking Rules and Validation](./benchmark.md)>
+<!- [Rubiks Cube Rules and Validation](./rubiks.md)>
+<!- [Mystery App Rules and Validation](./mystery.md)>
 <!- [Grading](./grading.md)>
