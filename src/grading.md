@@ -1,3 +1,4 @@
+# Grading Breakdown
 The overall score for any individual team will be measured as follows with
 individual application scores being weighted against the team who scores the
 highest for that given application, i.e. if the highest benchmark result for
