@@ -9,3 +9,4 @@
 <!- [Rubik's Cube Rules and Validation](./rubiks.md)>
 <!- [Mystery App Rules and Validation](./mystery.md)>
 <!- [Grading](./grading.md)>
+<!- [Resulst](./results.md)>
