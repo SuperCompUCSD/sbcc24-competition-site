@@ -8,4 +8,4 @@
 <!- [Benchmarking rules and Validation](./benchmark.md)>
 <!- [Rubiks Cube rules and Validation](./rubiks.md)>
 <!- [Mystery App rules and Validation](./mystery.md)>
-- [Grading](./grading.md)
+<!- [Grading](./grading.md)>
