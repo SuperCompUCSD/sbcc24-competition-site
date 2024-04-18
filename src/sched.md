@@ -29,15 +29,15 @@ Some Schedule Time Translations
 
 **Note:** For final Results Annouceemnts are done with respect to Pacific Standard Time.
 
-| Event | Local Time | PST time | Time Zone |
+| Event |Time Zone | Local Time | PST time | 
 | ---- | --- | --- | --- |
 | **Aalborg Universitet** ||||
-| Benchmarking | Friday 8am - 12pm | Friday 11pm - Saturday 3am | CEST |
-| Mystery App Announcement | Friday 12pm | Friday 3am | CEST |
-| Final Application Submission | Saturday 3pm | Friday 6am | CEST |
-| Results Announcements | Sunday 2am | Saturday 5pm | CEST |
+| Benchmarking |CEST | Friday 8am - 12pm | Friday 11pm - Saturday 3am | 
+| Mystery App Announcement |CEST | Friday 12pm | Friday 3am | 
+| Final Application Submission |CEST | Saturday 3pm | Friday 6am | 
+| Results Announcements |CEST | Sunday 2am | Saturday 5pm | 
 | **University of Kansas**  ||||
-| Benchmarking | Friday 8am - 12pm | Friday 6am - 10am | CST |
-| Mystery App Announcement | Friday 12pm | Friday 10am | CST |
-| Final Application Submission | Saturday 3pm | Saturday 1pm | CST |
-| Results Announcements | Saturday 7pm | Saturday 5pm | CST |
+| Benchmarking |CST | Friday 8am - 12pm | Friday 6am - 10am | 
+| Mystery App Announcement |CST | Friday 12pm | Friday 10am | 
+| Final Application Submission |CST | Saturday 3pm | Saturday 1pm | 
+| Results Announcements |CST | Saturday 7pm | Saturday 5pm | 
