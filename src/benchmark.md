@@ -22,8 +22,7 @@ file produced for both.
 - Official runs standardly run 30 min, but a 15+ min will be accepted to compensate for the short time.
 - Problem size must occupy at least ¼ of total main memory
 
-###
-**Example Submission**
+### **Example Submission**
 ```
 TEAM-NAME/
     └── Benchmarks/
