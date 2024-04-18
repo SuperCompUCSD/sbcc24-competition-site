@@ -8,19 +8,18 @@ Results and announcements will be done in Pacific Standard time.
 |7:00am | 10:00am | Setup Network/Power Infra | Need to come into the auditorium to properly setup all the switches + AV for remote teams	| 3 hours|
 |8:00am | | Open Doors | Competition Teams can come and begin setup ||
 |8:00am | | 5:00pm+ | Competition Teams set up and run preliminary tests. | It is okay to receive help at this point. Auditorium locks at 5pm but are allowed to be in the room as long as there is staff/committee accompanying. |
-|**Friday 4/19/24**|||||
-|8:00 am | 12:00 pm (Noon) | [Benchmarks](benchmark.md) begin || 4 hours |
-|12:00 pm|| Mystery Apps Revealed/Benchmark Submission ||
-|**Saturday 4/20/24**|||||
-| 8:00 am || competition day ||
-<<<<<<< HEAD
+|**Friday 4/19/24**|Competition Day 1|8:00 am to 5:00 pm|||
+|8:00 am | 9:00 am | Breakfast || 1 Hour | 
+|8:00 am | 12:00 pm (Noon) | [Benchmarks](./benchmark.md) begin || 4 hours |
+|12:00 pm || **Benchmark Submissions** |HPL and HPCG Runs||
+|12:00 pm || [Mystery App](./mystery.md) Revealed||
+|12:00 pm |5:00pm|Applications|[Cube20](./rubiks.md) and [Mystery App](./mystery.md)||
+|**Saturday 4/20/24**|Competition Day 2|8:00 am to 5:00 pm|||
+|8:00 am | 9:00 am | Breakfast || 1 Hour | 
+|8:00 pm |3:00pm|Applications|[Cube20](./rubiks.md) and [Mystery App](./mystery.md)||
 |1:00 pm | 2:00 pm | Lunch || 1 hour |
-|3:00 pm || Final Submission | Submit the final results of apps | |
+|3:00 pm || **Final Submission** | Submit the final results of apps | |
 |3:00 pm | 5:00 pm | Tours/Campus | Possible datacenter tours if Ops is available | 2 hours |
-=======
-|3:00 pm || Final Submission | Submit the final results of apps, [Cube20](rubiks.md) and the [MysteryApp](mystery.md) | |
-|3:00 pm | 5:00 pm | Tours/Campus | Possible datacenter tours if Ops is available | 2 hour |
->>>>>>> 5f507bc (Edit dir structure and details.)
-
+|5:00 pm || **Results Announced** |||
 
 *Breakfast and Lunch is served at 8am and 1pm respectively daily*
