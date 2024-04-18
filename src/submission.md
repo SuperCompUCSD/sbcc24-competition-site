@@ -10,7 +10,7 @@ Every team should have one they can access and *only* their teams.
 
 <u>Submission Folder Names</u>
 
-**University of Kansas:** KS
+**University of Kansas:** KU
 
 **University of Texas, Austin:** UT Austin
 
@@ -28,8 +28,6 @@ EXAMPLE-SCHOOL/
 ├── Cube20/
 └── Mystery/
 ```
-
-4 directories, 0 files
 
 ## Additional Info
 For remote teams, We'd like for you also to submit files corresponding to the power consumption of your cluster for us to validate.
