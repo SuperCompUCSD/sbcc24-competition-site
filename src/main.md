@@ -35,6 +35,7 @@ For SBCC24 we have two in-person teams, and two remote teams.
 ## Schedule <a id="schedule"></a>
 
 *Agenda:*
+
 | DAY | START | END | ACTIVITY |
 | ---- | ---- | ---- | ---- | 
 | Thurs | 8:00 am PST | 5:00 pm PST | Setup |
