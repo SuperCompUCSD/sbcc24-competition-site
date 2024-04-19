@@ -10,12 +10,16 @@ notified of specifics according to their local timezone.
 * [Teams](#teams)
 * [Schedule](#schedule)
 
+[Back To TOC](#toc)
 
-## Welcome to SBCC24 <a id="welcome"></a> 
-The _Single-Board Cluster Competition (SBCC)_ is a competition hosted by the UCSD Super Computing Club. For SBCC24 we have two in-person teams, and two remote teams.
+## Welcome to the  SBCC24 <a id="welcome"></a> 
+The _Single-Board Cluster Competition (SBCC)_ is a competition where teams from all around the world compete using _single-board_ devices, and other similarly simple hardware, to create miniature supercomputing clusters. SBCC24 is the second competition. For information about SBCC23, check here: NeedLink
+
+For SBCC24 we have two in-person teams, and two remote teams.
 * Opening Remarks: Mary Thomas and Nick Thorne
-* Competition Rules and Overview
+* Competition Rules and Overview (Paco)
 
+[Back To TOC](#toc)
 
 ## Teams <a id="teams"></a>
 
@@ -25,6 +29,8 @@ The _Single-Board Cluster Competition (SBCC)_ is a competition hosted by the UCS
 | In-Person |TACC | Austin, TX  | PI4 cluster, 20 nodes | TBD |
 | Virtual   | tbd | tbd | tbd | tbd |
 | Virtual   | tbd | tbd | tbd | tbd |
+
+[Back To TOC](#toc)
 
 ## Schedule <a id="schedule"></a>
 
