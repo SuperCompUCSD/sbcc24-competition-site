@@ -4,7 +4,7 @@
 | Item | Quantity | Purpose |
 | --- | --- | --- |
 | Raxda Rock 5b | 16 | compute nodes |
-| Raxda Rock 5b | 1 | dhcp server |
+| Raspberry Pi 4B | 1 | dhcp server |
 | USW-24-POE | 1 | 95W Switch |
 | MEAN WELL 300W Switch-mode powersupply | 1 | PSU |
 
