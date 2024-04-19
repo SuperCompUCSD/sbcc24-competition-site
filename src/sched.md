@@ -14,7 +14,7 @@ Results and announcements will be done in Pacific Standard time.
 |12:00 pm || [Mystery App](./mystery.md) Revealed||
 |12:00 pm |5:00pm|Applications|[Cube20](./rubiks.md) and [Mystery App](./mystery.md)||
 |**Saturday 4/20/24**|Competition Day 2|8:00 am to 5:00 pm|||
-|8:00 pm |3:00pm|Applications|[Cube20](./rubiks.md) and [Mystery App](./mystery.md)||
+|8:00 am |3:00pm|Applications|[Cube20](./rubiks.md) and [Mystery App](./mystery.md)||
 |3:00 pm || **Final Submission** | Submit the final results of apps | |
 |3:00 pm | 5:00 pm | Tours/Campus | Possible datacenter tours if Ops is available | 2 hours |
 |5:00 pm || **Results Announced** |||
@@ -29,12 +29,20 @@ Some Schedule Time Translations
 | Event |Time Zone | Local Time | PST time | 
 | ---- | --- | --- | --- |
 | **Aalborg Universitet** ||||
-| Benchmarking |CEST | Friday 8am - 12pm | Friday 11pm - Saturday 3am | 
-| Mystery App Announcement |CEST | Friday 12pm | Friday 3am | 
-| Final Application Submission |CEST | Saturday 3pm | Friday 6am | 
-| Results Announcements |CEST | Sunday 2am | Saturday 5pm | 
+| Comp Day 1 |CEST | Friday 11am - 8pm | Friday 2am - 11am | 
+| Comp Day 2 |CEST | Saturday 11am - 8pm | Saturday 2am - 11am | 
+| Benchmarking |CEST | Friday 11am - 3pm | Friday 2am - 6am | 
+| Final Benchmark Submission |CEST | Friday 3pm | Friday 6am | 
+| Mystery App Announcement |CEST | Friday 3pm | Friday 6am | 
+| Application Time | CEST | Friday 3:00pm - 8:00pm + Saturday 11:00 am - 6:00pm | Friday 6:00am - 11am + Saturday 2am - 11 am | 
+| Final Application Submission | CEST | Saturday 8pm | Saturday 11am | 
+| Results Announcements | CEST | Sunday 0:00am | 5pm | 
 | **University of Kansas**  ||||
-| Benchmarking |CST | Friday 10am - 2pm | Friday 8am - 12am | 
-| Mystery App Announcement |CST | Friday 2pm | Friday 12am | 
-| Final Application Submission |CST | Saturday 5pm | Saturday 3pm | 
-| Results Announcements |CST | Saturday 7pm | Saturday 5pm | 
+| Comp Day 1 | CST | Friday 10am - 7pm | Friday 8am - Friday 5pm | 
+| Comp Day 2 | CST | Saturday 10am - 7pm | Saturday 8am - Saturday 5pm | 
+| Benchmarking | CST | Friday 10am - 2pm | Friday 8am - 12am | 
+| Final Benchmark Submission | CST | Friday 2pm | Friday 12am | 
+| Mystery App Announcement | CST | Friday 2pm | Friday 12am | 
+| Application Time | CST | Saturday 2:00pm - 7:00pm + Sunday 10am - 7:00pm | Saturday 12:00am - 5:00pm + Sunday 8am - 5:00pm | 
+| Final Application Submission | CST | Saturday 5pm | Saturday 3pm | 
+| Results Announcements | CST | Saturday 7pm | Saturday 5pm | 
