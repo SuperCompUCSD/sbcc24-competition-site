@@ -15,7 +15,7 @@ synced to UTC time.
 ## Power
 The power your cluster is pulling from will be on the PDU port closest to your cluster ports 1 or 6.
 
-PDU info is behind our NAT and the IP to check PDU power usage is at <https://10.100.0.238>.
+PDU info is behind our NAT and the IP to check PDU power usage is at <https://10.100.0.1:3000>.
 
 ## Access
 
