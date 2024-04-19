@@ -25,10 +25,10 @@ For SBCC24 we have two in-person teams, and two remote teams.
 
 | MODE | ORG | LOCATION | SYSTEM | TEAM MEMBERS |
 |----|----|----|----|----|
-| In-Person |UCSD | La Jolla, CA  | PI3 cluster, 20 nodes| Zixian, others |
+| In-Person |UCSD | La Jolla, CA  | PI3 cluster, 20 nodes| Zixian Wang, Aarush Mehrotra, Henry Feng, Luiz Gurrola, James Choi, Pranav Prabu |
 | In-Person |TACC | Austin, TX  | PI4 cluster, 20 nodes | TBD |
-| Virtual   | tbd | tbd | tbd | tbd |
-| Virtual   | tbd | tbd | tbd | tbd |
+| Virtual   |KU |Lawrence, KS |Orange Pi 5, 28 nodes | Abir Haque, Owen Krussow, Sam Lindsey, Yara Al-Shormanm, Shad Ahmed, Jamie King |
+| Virtual   |Aalborg University |Aalborg, DK |17x Raxda Rock | tbd |
 
 [Back To TOC](#toc)
 
@@ -43,7 +43,7 @@ For SBCC24 we have two in-person teams, and two remote teams.
 | Saturday | 8:00 am PST | 3:00 pm PST | Final Submissions Due |
 | Saturday | 5:00 pm PST |   | Awards Ceremony |
 
-Here is the FULL shedule : https://github.com/SuperCompUCSD/sbcc24-competition-site/blob/main/src/sched.md
+Here is the [FULL schedule](./sched.md)
 
 
 [Back To TOC](#toc)
