@@ -27,6 +27,7 @@ We intend to use Rocky Linux 9.3 as the operating system, the GNU Compiler Colle
 
 ## Team Details
 Our team is comprised of six undergraduates that are members of the KU Supercomputing Club, three of which have competed in the 2023 Student Cluster Competition (denoted by \*). Below is the team roster with everyone's background and our intended strategy for each task.
+
 | Name | Background |
 | --- | --- |
 | Abir Haque* | Parallel Programming, Scientific Computing |
