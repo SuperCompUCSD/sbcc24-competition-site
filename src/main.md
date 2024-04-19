@@ -24,14 +24,14 @@ The _Single-Board Cluster Competition (SBCC)_ is a competition hosted by the UCS
 |----|----|----|----|----|
 | In-Person |UCSD | La Jolla, CA  | PI3 cluster, 20 nodes| Zixian, others |
 | In-Person |TACC | Austin, TX  | PI4 cluster, 20 nodes | TBD |
-| Virtual | tbd | tbd | tbd | tbd |
-| Virtual | tbd | tbd | tbd | tbd |
+| Virtual   | tbd | tbd | tbd | tbd |
+| Virtual   | tbd | tbd | tbd | tbd |
 
 ## Schedule <a id="teams"></a>
 
 *Agenda:*
 | DAY | START | END | ACTIVITY |
-|----|----|----|----|----|
+| ---- | ---- | ---- | ---- | 
 | Thurs | 8:00 am PST | 5:00 pm PST | Setup |
 | Friday | 8:00 am PST | 12:00 pm PST | Benchmarking |
 | Friday | 12:00 am PST | 5:00 pm PST | Competition Begins - Applications |
