@@ -28,14 +28,17 @@ The _Single-Board Cluster Competition (SBCC)_ is a competition hosted by the UCS
 | Virtual | tbd | tbd | tbd | tbd |
 
 ## Schedule <a id="teams"></a>
-Here be the FULL shedule : https://github.com/SuperCompUCSD/sbcc24-competition-site/blob/main/src/sched.md
-Agenda
+
+*Agenda:*
 | DAY | START | END | ACTIVITY |
+|----|----|----|----|----|
 | Thurs | 8:00 am PST | 5:00 pm PST | Setup |
 | Friday | 8:00 am PST | 12:00 pm PST | Benchmarking |
 | Friday | 12:00 am PST | 5:00 pm PST | Competition Begins - Applications |
 | Saturday | 8:00 am PST | 3:00 pm PST | Final Submissions Due |
 | Saturday | 5:00 pm PST |   | Awards Ceremony |
+
+Here is the FULL shedule : https://github.com/SuperCompUCSD/sbcc24-competition-site/blob/main/src/sched.md
 
 
 
