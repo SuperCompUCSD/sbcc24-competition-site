@@ -6,10 +6,16 @@ when the time rolls over according to PST -- teams in forward time zones will be
 notified of specifics according to their local timezone.
 
 ## TOC
+* [About](#about)
 * [Teams](#teams)
 * [Schedule](#schedule)
 
 
+## [About SBCC24] 
+The _Single-Board Cluster Competition (SBCC)_ is a competition hosted by our very own Super Computing Club! During SBCC, teams from all around the world compete using single-board computers and other similarly simple hardware to create miniature supercomputing clusters and rank them based on their performance on industry-standard high-performance computing benchmarks.
+
+The Single-Board Cluster Competition (SBCC) is a competition hosted by our very own Super Computing Club! During SBCC, teams from all around the world compete using single-board computers and other similarly simple hardware to create miniature supercomputing clusters and rank them based on their performance on industry-standard high-performance computing benchmarks.
+“
 ## [Teams] 
 here be the teams
 
