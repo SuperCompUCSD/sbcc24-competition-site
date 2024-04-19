@@ -37,7 +37,7 @@ Some Schedule Time Translations
 | Final Application Submission |CEST | Saturday 3pm | Friday 6am | 
 | Results Announcements |CEST | Sunday 2am | Saturday 5pm | 
 | **University of Kansas**  ||||
-| Benchmarking |CST | Friday 8am - 12pm | Friday 6am - 10am | 
-| Mystery App Announcement |CST | Friday 12pm | Friday 10am | 
-| Final Application Submission |CST | Saturday 3pm | Saturday 1pm | 
+| Benchmarking |CST | Friday 10am - 2pm | Friday 8am - 12am | 
+| Mystery App Announcement |CST | Friday 2pm | Friday 12am | 
+| Final Application Submission |CST | Saturday 5pm | Saturday 3pm | 
 | Results Announcements |CST | Saturday 7pm | Saturday 5pm | 
