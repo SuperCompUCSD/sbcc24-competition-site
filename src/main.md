@@ -5,7 +5,7 @@ and other logistics. For time-based announcements this site will reflect it
 when the time rolls over according to PST -- teams in forward time zones will be
 notified of specifics according to their local timezone.
 
-## TOC
+## TOC <a id="toc"></a>
 * [Welcome](#welcome)
 * [Teams](#teams)
 * [Schedule](#schedule)
@@ -18,7 +18,6 @@ The _Single-Board Cluster Competition (SBCC)_ is a competition hosted by the UCS
 
 
 ## Teams <a id="teams"></a>
-### In-Person
 
 | MODE | ORG | LOCATION | SYSTEM | TEAM MEMBERS |
 |----|----|----|----|----|
@@ -27,7 +26,7 @@ The _Single-Board Cluster Competition (SBCC)_ is a competition hosted by the UCS
 | Virtual   | tbd | tbd | tbd | tbd |
 | Virtual   | tbd | tbd | tbd | tbd |
 
-## Schedule <a id="teams"></a>
+## Schedule <a id="schedule"></a>
 
 *Agenda:*
 | DAY | START | END | ACTIVITY |
@@ -41,4 +40,4 @@ The _Single-Board Cluster Competition (SBCC)_ is a competition hosted by the UCS
 Here is the FULL shedule : https://github.com/SuperCompUCSD/sbcc24-competition-site/blob/main/src/sched.md
 
 
-
+[Back To TOC](#toc)
