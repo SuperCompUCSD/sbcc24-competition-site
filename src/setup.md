@@ -15,7 +15,7 @@ synced to UTC time.
 ## Power
 The power your cluster is pulling from will be on the PDU port closest to your cluster ports 1 or 6.
 
-PDU info is behind our NAT and the IP to check PDU power usage is at <https://10.100.0.1:3000>.
+PDU info is behind our NAT and the IP to check PDU power usage is at our [Grafana Dashbooard](http://10.100.0.1:3000/public-dashboards/2714c119e8e7434baf630c0e67d4a91e?orgId=1&refresh=5s).
 
 ## Access
 
