@@ -6,19 +6,18 @@ when the time rolls over according to PST -- teams in forward time zones will be
 notified of specifics according to their local timezone.
 
 ## TOC
-* [About](#about)
+* [Welcome](#welcome)
 * [Teams](#teams)
 * [Schedule](#schedule)
 
 
-## [About SBCC24] 
-The _Single-Board Cluster Competition (SBCC)_ is a competition hosted by our very own Super Computing Club! During SBCC, teams from all around the world compete using single-board computers and other similarly simple hardware to create miniature supercomputing clusters and rank them based on their performance on industry-standard high-performance computing benchmarks.
+## Welcome to SBCC24 <a id="welcome"></a> 
+The _Single-Board Cluster Competition (SBCC)_ is a competition hosted by the UCSD Super Computing Club and the Texas Advanced Computing Center. For SBCC24 we have two in-person teams, and two remote teams.
 
-The Single-Board Cluster Competition (SBCC) is a competition hosted by our very own Super Computing Club! During SBCC, teams from all around the world compete using single-board computers and other similarly simple hardware to create miniature supercomputing clusters and rank them based on their performance on industry-standard high-performance computing benchmarks.
-“
-## [Teams] 
+
+## Teams <a id="teams"></a>
 here be the teams
 
-## [Schedule] 
+## Schedule <a id="teams"></a>
 here be the shedule
 
