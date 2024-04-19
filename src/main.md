@@ -16,8 +16,12 @@ The _Single-Board Cluster Competition (SBCC)_ is a competition hosted by the UCS
 
 
 ## Teams <a id="teams"></a>
-here be the teams
+### In-Person
+|----|----|----|----|----|
+| MODE | ORG| LOCATION |  SYSTEM | TEAM MEMBERS |
+| In-Person |UCSD | La Jolla, CA  | PI3 cluster, 20 nodes| | Zixian, others
+
+### Remote
 
 ## Schedule <a id="teams"></a>
-here be the shedule
-
+Here be the full shedule : https://github.com/SuperCompUCSD/sbcc24-competition-site/blob/main/src/sched.md
