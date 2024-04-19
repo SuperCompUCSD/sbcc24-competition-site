@@ -1,10 +1,10 @@
 # Summary
 ## Brus
 - [Home](./main.md)
-    - [University of California, San Diego](./ucsd.md)
-    - [Texas Advanced Computing Center](./tacc.md)
-    - [University of Kansas](./ku.md)
-    - [Aalborg Universit](./aau.md)
+    - [University of California, San Diego](./teams/ucsd.md)
+    - [Texas Advanced Computing Center](./teams/tacc.md)
+    - [University of Kansas](./teams/ku.md)
+    - [Aalborg Universit](./teams/aau.md)
 - [Schedule](./sched.md)
 - [Initial Cluster Setup](./setup.md)
 - [Remote Teams](./hybrid.md)
