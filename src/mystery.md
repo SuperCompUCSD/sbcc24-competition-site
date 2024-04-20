@@ -97,7 +97,7 @@ With the following modifications to the config file:
 
       turb_ONERAM6.cgf
       % Epsilon to control the series convergence
-      CONV_CAUCHY_EPS= 1E-8
+      CONV_CAUCHY_EPS= 1E-6
       Change the above to read:
       CONV_CAUCHY_EPS= 1E-12
 ```
