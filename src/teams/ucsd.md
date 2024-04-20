@@ -1,10 +1,12 @@
 # San Diego Super Computing Center / University of California, San Diego
 
 ## Hardware
+
 | Item | Quantity |
 | --- | --- |
 | Raspberry Pi 3 Model B Rev 1.3 | 20 |
 | Unify Standard 48 | 3 |
+
 ## Software
 Rocky Linux 9.3 (Blue Onyx)
 

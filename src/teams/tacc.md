@@ -3,7 +3,7 @@
 
 | Item | Quantity |
 | ---- | -------- |
-| Pi 5 boards | 5 |
+| Pi 5 boards | 20 |
 | TP-Link TL-SG1024D | 1 |
 | Anker 60 Watt Hubs | 5 |
 | UCTRONICS Upgraded Complete Enclosure| 5 |
@@ -11,11 +11,8 @@
  
 
 ## Software
-
 - **System:** Raspbian 64 bit
-
 - **MPI:** MPICH
-
 - **Interfacing:** Clush
 
 
