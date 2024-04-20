@@ -26,7 +26,7 @@ For SBCC24 we have two in-person teams, and two remote teams.
 | MODE | ORG | LOCATION | SYSTEM | TEAM MEMBERS |
 |----|----|----|----|----|
 | In-Person |[UCSD](./teams/ucsd.md) | La Jolla, CA  | PI3 cluster, 20 nodes| Zixian Wang, Aarush Mehrotra, Henry Feng, Luiz Gurrola, James Choi, Pranav Prabu |
-| In-Person |[TACC](./teams/tacc.md) | Austin, TX  | PI4 cluster, 20 nodes | TBD |
+| In-Person |[TACC](./teams/tacc.md) | Austin, TX  | PI4 cluster, 20 nodes | Julian Mace, Kimberly Balboa, Yaritza Kenyon, Erik Rivera-sanchez, Jacob Getz, |
 | Virtual   |[KU](./teams/ku.md) |Lawrence, KS |Orange Pi 5, 28 nodes | Abir Haque, Owen Krussow, Sam Lindsey, Yara Al-Shormanm, Shad Ahmed, Jamie King |
 | Virtual   |[AAU](./teams/aau.md) |Aalborg, DK |17x Raxda Rock | Sofie Finnes Øvrelid, Mads Beyer Mogensen, Thomas Møller Jensen, Tobias Sønder Nielsen |
 
