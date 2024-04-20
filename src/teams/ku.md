@@ -10,7 +10,7 @@
 | Power Monitor | $15.99 | 1 | $15.99 | <https://a.co/d/8LErGh1> |
 | 64GB MicroSD Card (30-pack) | $139.50 | 1 | $134.53 | <https://www.aliexpress.us/item/2251832790078323.html> |
 | Orange Pi 5+ | $179.99 | 5 | $899.95 | <https://a.co/d/9byszpf> |
-| Orange Pi 5 | $137.99 | 23 | $3,173.77 | <https://a.co/d/hcaDbo4> |
+| Orange Pi 5 | $137.99 | 17 | $3,173.77 | <https://a.co/d/hcaDbo4> |
 | Ethernet cable (grey,100ft) | $60.00 | 1 | $60.00 | <https://www.mcmaster.com/8245K31-8245K14/> |
 | M4 Hex Head Screws (100 ct.) | $12.58 | 2 | $25.16 | <https://www.mcmaster.com/91239A148/> |
 | 14AWG supply wires (black,50ft) | $22.48 | 2 | $22.48 | <https://www.mcmaster.com/8054T17-8054T378/> |
