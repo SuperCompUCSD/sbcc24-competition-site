@@ -114,9 +114,10 @@ e.g:
        ^this^
 ```
 would get you partial credit (higher number is better) if no team completes these runs.
-<br><sub>For more questions please ask Nick Thorne accessible in person or at nthorne@tacc.utexas.edu pertaining to Su2</sub>
 
 **Note:** that for all the turbulence simulations specifically `turb_SA_flatplate.cfg` and `turb_SA_ONERAM6.cfg` you simply need to run them once with the above information attached -- It should give you an idea of how Su2 should run. For the scalability tests you need to run `Inviscid_Bump`, `Inviscid_ONERAM6` and `Inviscid_Wedge`.
+
+<br><sub>For more questions please ask Nick Thorne accessible in person or at nthorne@tacc.utexas.edu pertaining to Su2</sub>
 
 [Back to Top](#top)
 
