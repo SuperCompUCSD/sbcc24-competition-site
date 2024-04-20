@@ -10,8 +10,8 @@ So actually, BOINC is not just one application, but a framework that lets you ru
 Our Second Mystery App is [Su2](https://su2code.github.io/). While BOINC keeps some portion of your cluster occupied see if you can squeeze in a few SU2 runs. At many supercomputing centers to get access to the really big queues researchers have to demonstrate that their code will scale up too many many nodes. We make them produce a scaling test.
 
 ## TOC
- * [Welcome](#boinc)
- * [Teams](#su2)
+ * [Boinc](#boinc)
+ * [Su2](#su2)
 
 # Boinc <a id="boinc"></a>
 
