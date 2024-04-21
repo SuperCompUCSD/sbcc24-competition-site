@@ -48,6 +48,8 @@
 ## Score Breakdowns
 
 ### Totals
+*note that the su2 column is not included in the sum*
+
 | Team | HPL | HPCG | Cube20 | BOINC | SU2 | Total | Score % /60pts |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | UT | 0.4671414935 | 0.9598006513 | 19.99996114 | 5 | 0 | 26.42690329 | 44.04% |
