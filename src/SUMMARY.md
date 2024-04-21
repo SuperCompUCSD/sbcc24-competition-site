@@ -13,4 +13,4 @@
 - [Cube20 Parameters and Validation](./rubiks.md)
 - [Mystery Application Parameters and Validation](./mystery.md)
 - [Grading](./grading.md)
-<!- [Results](./results.md)>
+- [Results](./results.md)

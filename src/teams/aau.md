@@ -18,7 +18,9 @@
 - **HPCG:** HPCG Reference `3.1`
 
 ## Team
-- Sofie Finnes Øvrelid
-- Mads Beyer Mogensen
-- Thomas Møller Jensen
-- Tobias Sønder Nielsen
+| Member |
+| --- |
+| Sofie Finnes Øvrelid |
+| Mads Beyer Mogensen |
+| Thomas Møller Jensen |
+| Tobias Sønder Nielsen |
