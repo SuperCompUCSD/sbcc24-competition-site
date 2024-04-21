@@ -1,7 +1,7 @@
 # Cube20 
 
 ## Instructions
-A complete package and instructions of [cube20](cube20.org) can be
+A complete package and instructions of [cube20](https://cube20.org) can be
 found on [this Google Drive folder](https://drive.google.com/drive/folders/1FTrgvIjkPKCcZdepuVjYrI_R8QJI6Eyd?usp=sharing.)
 
 
